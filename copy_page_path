@@ -1,0 +1,1 @@
+javascript:(function() {    var path = window.location.pathname;    console.log('Path: ' + path);    navigator.clipboard.writeText(path);})();

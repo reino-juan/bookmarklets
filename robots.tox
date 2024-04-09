@@ -1,0 +1,1 @@
+javascript:document.location= document.location.protocol + '//' + document.location.host + '/robots.txt';
